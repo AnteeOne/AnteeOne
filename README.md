@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azat</h1>
 <h3 align="center">A software developer and student from Russia , Kazan!</h3>
-<p align="middle"> <img src="assets/tenor.gif" alt="anteeone" width="400"/> </p>
+<p align="middle"> <img src="https://github.com/AnteeOne/AnteeOne/blob/master/assets/tenor.gif" alt="anteeone" width="400"/> </p>
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=anteeone" alt="anteeone" /> </p>
 
 - 🐙 [My archive which contains useful things , that may help you](https://github.com/AnteeOne/Archive)
