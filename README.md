@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ItisHub](https://github.com/ITISHub/itishub-backend)
 
-- 🌱 I’m currently learning **Android dev and Django**
+- 🌱 I’m currently learning **Android dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnteeOne](https://github.com/AnteeOne)
 
